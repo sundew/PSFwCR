@@ -10,6 +10,7 @@ Projekt 1 - Paulina Banasiak
 (1) U³o¿enie kursora myszy definiuje kierunek ruchu, gdy wciœniêty LPM.
 (2) Przytrzymanie klawisza z cyfr¹ odpowiadaj¹c¹ numerowi kuli wypisuje jej po³o¿enie i prêdkoœæ.
 */
+#include <stdlib.h>
 #include <GL/glut.h>
 #include <iostream>
 #include "vector3d.h"

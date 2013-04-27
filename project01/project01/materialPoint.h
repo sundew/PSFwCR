@@ -1,4 +1,5 @@
 #pragma once
+#include <stdlib.h>
 #include <GL/glut.h>
 #include "vector3d.h"
 #include "random.h"
